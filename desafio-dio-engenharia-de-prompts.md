@@ -1,10 +1,10 @@
-# Desafio DIO — Criando um Prompt com Intenção, Contexto e Restrições
+# Desafio DIO: Criando um Prompt com Intenção, Contexto e Restrições
 
-## 🎯 Objetivo do desafio
+## Objetivo do desafio
 
 Construir um prompt claro e completo para orientar uma inteligência artificial na geração de conteúdos de marketing para uma pequena empresa. O exemplo utiliza a **Santo Cookie**, uma marca de cookies artesanais que vende por delivery.
 
-## 🧱 Passo 1 — Defina a intenção
+## Definir a intenção
 
 **O que quero gerar?** Ideias de vídeos curtos (Reels) para o Instagram, com sugestões de roteiro, legenda e chamada para ação.
 
@@ -16,7 +16,7 @@ Construir um prompt claro e completo para orientar uma inteligência artificial 
 
 > Quero que a IA gere ideias de Reels para o Instagram da Santo Cookie, direcionadas a potenciais clientes da região, com o objetivo de despertar desejo pelos produtos e incentivar pedidos pelo iFood.
 
-## 🧱 Passo 2 — Adicione contexto e restrições
+## Adicionar contexto e restrições
 
 **Contexto:**
 
@@ -28,7 +28,7 @@ Construir um prompt claro e completo para orientar uma inteligência artificial 
 
 **Formato esperado:**
 
-- Apresentar **5 ideias de Reels**, em uma tabela.
+- Apresentar **30 ideias de Reels**, em uma tabela.
 - Para cada ideia, incluir: **tema**, **gancho inicial**, **sequência de cenas**, **legenda curta** e **chamada para ação (CTA)**.
 - Priorizar vídeos com duração estimada de **até 30 segundos**.
 - Escrever legendas de **até 250 caracteres**, usando português brasileiro natural.
@@ -41,9 +41,9 @@ Construir um prompt claro e completo para orientar uma inteligência artificial 
 - Inventar promoções, preços, cupons, avaliações ou benefícios não informados.
 - Prometer resultados de vendas ou engajamento.
 
-## 🧱 Passo 3 — Prompt final
+## Prompt final
 
-> Atue como um estrategista de conteúdo especializado em marketing para pequenos negócios de alimentação. Crie **5 ideias de vídeos curtos (Reels) para o Instagram da Santo Cookie**, uma marca de cookies artesanais vendida por delivery em Campina Grande do Sul (PR). O público-alvo são jovens adultos e famílias da região que gostam de doces artesanais. O objetivo é despertar desejo pelos produtos, fortalecer a lembrança da marca e incentivar pedidos pelo iFood.
+> Atue como um estrategista de conteúdo especializado em marketing para pequenos negócios de alimentação. Crie **30 ideias de vídeos curtos (Reels) para o Instagram da Santo Cookie**, uma marca de cookies artesanais vendida por delivery em Campina Grande do Sul (PR). O público-alvo são jovens adultos e famílias da região que gostam de doces artesanais. O objetivo é despertar desejo pelos produtos, fortalecer a lembrança da marca e incentivar pedidos pelo iFood.
 >
 > Considere que os cookies têm casquinha crocante, interior macio e opções tradicionais e recheadas. A marca utiliza um tom de voz divertido, acolhedor e levemente irreverente, com humor inteligente e sem parecer infantil. Os vídeos precisam ser simples de gravar, usando cenas reais do preparo, do forno, de chocolates derretendo e de cookies sendo partidos ao meio.
 >
@@ -51,9 +51,9 @@ Construir um prompt claro e completo para orientar uma inteligência artificial 
 >
 > Evite clichês, frases publicitárias genéricas, humor infantil, piadas forçadas e produções complexas. Não invente preços, descontos, cupons, avaliações ou outras informações não fornecidas. Varie os ângulos criativos para que as cinco ideias não sejam repetitivas.
 
-## ✅ Resultado esperado
+## Resultado esperado
 
-Uma tabela com cinco ideias diferentes, prontas para orientar a gravação e a publicação de Reels, respeitando a identidade da marca e facilitando a produção de conteúdo de forma prática.
+Uma tabela com 30 ideias diferentes, prontas para orientar a gravação e a publicação de Reels, respeitando a identidade da marca e facilitando a produção de conteúdo de forma prática.
 
 ---
 
